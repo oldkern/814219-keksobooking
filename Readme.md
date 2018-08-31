@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Егор Нарышкин](https://up.htmlacademy.ru/javascript/15/user/814219).
-* Наставник: `Неизвестно`.
+* Наставник: `Никита Пиковец`.
 
 ---
 
